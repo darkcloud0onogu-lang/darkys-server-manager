@@ -32,7 +32,7 @@ Ready to upgrade your server?
 
 ### Click below to invite the bot:
 
-## ➜ [Invite Darky's Server Manager]()
+## ➜ [Invite Darky's Server Manager](https://discord.com/oauth2/authorize?client_id=1514103730117545984&permissions=8&integration_type=0&scope=bot+applications.commands)
 
 ---
 
@@ -48,8 +48,9 @@ Report bugs, request features, get setup help, or contact the development team.
 
 ## 📌 Navigation
 
-- 🏠 [Home](index.md)
-- 📜 [Terms of Service](terms.md)
-- 🔒 [Privacy Policy](privacy.md)
-- 🏆 [Credits](credits.md)
-- 💬 [Support](support.md)
+- 📜 [Terms of Service](https://darkcloud0onogu-lang.github.io/darkys-server-manager/terms)
+- 🔒 [Privacy Policy](https://darkcloud0onogu-lang.github.io/darkys-server-manager/privacy)
+- 🏆 [Credits](https://darkcloud0onogu-lang.github.io/darkys-server-manager/credits)
+- 💬 [Support Server](https://discord.gg/AdcV8PUz)
+- 🚀 [Invite Bot](https://darkcloud0onogu-lang.github.io/darkys-server-manager/invite)
+
