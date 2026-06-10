@@ -32,7 +32,7 @@ Ready to upgrade your server?
 
 ### Click below to invite the bot:
 
-## ➜ [Invite Darky's Server Manager](https://discord.com/oauth2/authorize?client_id=1514103730117545984&permissions=8&integration_type=0&scope=bot+applications.commands)
+## ➜ Invite Darky's Server Manager- https://discord.com/oauth2/authorize?client_id=1514103730117545984&permissions=8&integration_type=0&scope=bot+applications.commands
 
 ---
 
